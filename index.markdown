@@ -3,10 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: TODO
+title: Upcoming
 ---
 
-- Document how to setup NixOS on pi and create usb c link to iPad/Mac 
-- [DONE] Set up Jekyll for GitHub Pages
-  - home-manager has some issues and writer about the workaround
-- Publish above on GitHub Pages
+- home-manager has some incomplete (yet working) solution for Jekyll, write about the workaround
